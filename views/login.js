@@ -60,6 +60,7 @@ const styles = StyleSheet.create({
       height: 200,
       width: windowWidth,
       justifyContent: "flex-start",
+      borderRadius: 30
     },
     
     title: {
